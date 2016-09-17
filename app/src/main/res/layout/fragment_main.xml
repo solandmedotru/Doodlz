@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DoodleView xmlns:android="http://schemas.android.com/apk/res/android"
+<ru.solandme.doodlz.DoodleView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/doodleView"
     android:layout_width="match_parent"
@@ -11,4 +11,4 @@
     tools:context="ru.solandme.doodlz.MainActivityFragment"
     tools:showIn="@layout/activity_main">
 
-</DoodleView>
+</ru.solandme.doodlz.DoodleView>
